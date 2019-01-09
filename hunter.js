@@ -1,1 +1,3 @@
-add hunter in HunterBranch
+function sayHunter(){
+    console.log('hunter');
+}
